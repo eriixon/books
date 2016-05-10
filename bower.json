@@ -1,0 +1,17 @@
+{
+  "name": "books",
+  "authors": [
+    "sergeyradkov <radkov@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "index.html",
+  "dependencies": {
+    "angular": "^1.5.5",
+    "firebase": "^2.4.2",
+    "angularfire": "^1.2.0",
+    "bootstrap": "^3.3.6",
+    "angular-ui-router": "^0.2.18"
+  }
+}
